@@ -1,2 +1,6 @@
 # BiLiBiLi_fans
 bilibili 粉丝获取(通过up主uuid获取)
+
+必要的俩个python模块:
+①requests用来对哔哩哔哩服务器发起https请求获取uuid对应账号的相关数据
+②json用来对获取到的json数据进行解析
